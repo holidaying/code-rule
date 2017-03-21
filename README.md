@@ -8,9 +8,12 @@
 | 三级目录 |libs、models、plugins、skins、images、css、js |
 
 * 2.如果一个单词描述不了，名词加动词
+
 color-pick、button-groups、date-picker、option-grounp、jquery-select、jquery-swiper
+
 * 3.中间用-或者_连接为了方便归类、一目了然
 >node_models、async-demo、array-union、array-differ、babel-each。
+
 ### 2.文件命名
 
 
