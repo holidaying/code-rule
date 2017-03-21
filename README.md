@@ -77,3 +77,20 @@ game-page，docs-page等等反正就是自我想象。
 | 颜色 | color.css |
 
 ### 6.图片命名
+
+* 1、第一部分是图片的逻辑归属分类
+* 2、第二部分是图片的表现内容
+* 3、第三部分是图片的内容的类型（有些图片还会有第四部分，表示图片表现的状态。）
+* 4、tabbar_home_icon, navigationbar_showtime_icon@2x.png，tabbar_categories_icon
+
+![Paste_Image.png](http://upload-images.jianshu.io/upload_images/2604175-a2e22023e6d03304.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+### 7.分享demo
+
+* 1.饿了么部分组织构架
+
+![Paste_Image.png](http://upload-images.jianshu.io/upload_images/2604175-a3ada75909695d03.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+* 2.腾讯omi
+
+![Paste_Image.png](http://upload-images.jianshu.io/upload_images/2604175-8952b3717f46fff3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
